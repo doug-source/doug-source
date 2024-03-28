@@ -28,7 +28,7 @@ Atualmente apenas estudo e faço projetos privados, mas estou à procura de um n
   <img height="32" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=douglas.gtads@gmail.com" alt="Gmail"/>
 </a>
 <a href="#" title="LinkedIn">
-  <img height="32" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
+  <img height="32" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-leandro-1881b658" alt="LinkedIn"/>
 </a>
 
 ---
