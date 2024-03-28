@@ -8,18 +8,51 @@ Atualmente apenas estudo e faço projetos privados, mas estou à procura de um n
 ## 🚀 Minhas Skills
 
 <div style='display: flex;flex-wrap:wrap;gap:1rem;'>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
-<img height="32" src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" alt="NextJS"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
-<img height="32" src="https://material.angularjs.org/latest/img/logo.svg" alt="AngularJS"/>
-<img height="32" src="https://static-00.iconduck.com/assets.00/jquery-icon-505x512-u4lk43ex.png" alt="jQuery"/>
-<img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-512.png" alt="Laravel"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
+
+<ul>
+  <li>
+    <b>
+      Frontend:
+    </b>
+    <ul>
+      <li>
+        <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" title="HTML5" />
+        <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" title="HTML5" />
+        <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
+        <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="Javascript" alt="Javascript"/>
+        <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="Typescript" alt="Typescript"/>
+        <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" alt="React"/>
+        <img height="32" src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled Components" alt="Styled Components" />
+        <img height="32" src="https://material.angularjs.org/latest/img/logo.svg" alt="AngularJS" title="AngularJS" />
+        <img height="32" src="https://static-00.iconduck.com/assets.00/jquery-icon-505x512-u4lk43ex.png" title="jQuery" alt="jQuery"/>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <b>
+      Backend:
+    </b>
+    <ul>
+      <li style="display:flex;">
+        <img height="32" src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" title="NextJS" alt="NextJS"/>
+      <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Nodejs" alt="Nodejs"/>
+      <img height="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/com_94184.png" title="PHP" alt="PHP" />
+      <img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-512.png" title="Laravel" alt="Laravel"/>
+      </li>
+    </ul>
+  </li>
+  <li>
+      <b>
+        Banco de dados:
+      </b>
+    <ul>
+      <li>
+        <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/>
+        <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/>
+      </li>
+    </ul>
+  </li>
+</ul>
 </div>
 
 ## Contato
