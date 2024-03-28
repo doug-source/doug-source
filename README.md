@@ -30,9 +30,6 @@ Atualmente apenas estudo e faço projetos privados, mas estou à procura de um n
 <a href="#" title="LinkedIn">
   <img height="32" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
 </a>
-<a href="https://dev.to/dougsource" title="Dev.to">
-  <img height="32" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="Dev.to"/>
-</a>
 
 ---
 
