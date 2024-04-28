@@ -22,7 +22,7 @@ Atualmente apenas estudo e faço projetos privados, mas estou à procura de um n
         <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="Typescript" alt="Typescript"/>
         <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React" alt="React"/>
         <img height="32" src="https://avatars.githubusercontent.com/u/20658825?s=48&v=4" title="Styled Components" alt="Styled Components" />
-        <img height="32" src="https://github.com/css-modules/css-modules/assets/9113740/f0de16c6-aee2-4fb7-8752-bf400cc5145e" title="Styled Components" alt="CSS Modules" />
+        <img height="32" src="https://github.com/css-modules/css-modules/assets/9113740/f0de16c6-aee2-4fb7-8752-bf400cc5145e" title="CSS Modules" alt="CSS Modules" />
         <img height="32" src="https://material.angularjs.org/latest/img/logo.svg" alt="AngularJS" title="AngularJS" />
         <img height="32" src="https://static-00.iconduck.com/assets.00/jquery-icon-505x512-u4lk43ex.png" title="jQuery" alt="jQuery"/>
       </li>
