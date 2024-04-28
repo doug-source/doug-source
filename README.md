@@ -36,8 +36,8 @@ Atualmente apenas estudo e faço projetos privados, mas estou à procura de um n
       <li style="display:flex;">
         <img height="32" src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg" title="NextJS" alt="NextJS"/>
       <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="Nodejs" alt="Nodejs"/>
-      <img height="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/com_94184.png" title="PHP" alt="PHP" />
       <img height="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/194_Laravel-512.png" title="Laravel" alt="Laravel"/>
+      <img height="32" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/com_94184.png" title="PHP" alt="PHP" />
       </li>
     </ul>
   </li>
